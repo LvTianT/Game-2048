@@ -1,6 +1,6 @@
 # 2048 小游戏
 
-这是一个使用 HTML、CSS 和 JavaScript 编写的 2048 小游戏。
+这是一个基于PC端的 2048 小游戏，使用 HTML、CSS 和 JavaScript 编写。
 
 ## 游戏玩法
 
